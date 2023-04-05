@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Random;
 
-public class javaex2 {
+public class rpsgame {
     public static void main(String[] args) {
         System.out.println("___Rock - Paper - Scissor___\n\n"); // Title of the game
         int pscores = 0; // variable to store player scores
