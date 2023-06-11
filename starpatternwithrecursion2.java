@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class tut35q10 {
+public class starpatternwithrecursion2 {
 
     static void prtstr(int a){
         if(a==0){
