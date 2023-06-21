@@ -42,7 +42,7 @@ class mycircle{
 }
 
 
-public class tut40 {
+public class circle_properties_oops {
 
     public static void main(String[] args){
 
