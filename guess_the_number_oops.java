@@ -43,7 +43,7 @@ class GuessTheNumber{
 }
 
 
-public class exc3{
+public class guess_the_number_oops{
     public static void main(String[] args){
         GuessTheNumber Game = new GuessTheNumber();
         Scanner sc = new Scanner(System.in);
